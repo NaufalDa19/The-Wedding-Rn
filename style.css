@@ -428,14 +428,14 @@ body {
 }
 
 .rsvp button {
-  background-color: #8b93ff;
+  background-color: #295f98;
   color: #fff7fc;
-  border: 1px solid #8b93ff;
+  border: 1px solid #295f98;
 }
 
 .rsvp button:hover {
   background-color: #fff7fc;
-  color: #8b93ff;
+  color: #295f98;
   border: 1px solid #fff7fc;
 }
 
